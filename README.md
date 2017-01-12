@@ -6,3 +6,5 @@ In your docker-compose.yml:
 rdev:
   image: colinxfleming/r-devtools
 ```
+
+hooray
